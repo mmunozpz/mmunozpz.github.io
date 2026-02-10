@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-MSc Student in Machine Learning for Health (UC3M)<br>Researcher at Instituto de Investigación Sanitaria Gregorio Marañón
+<p style="font-size: 0.9em; margin-bottom: 0.3em;">
+  MSc Student in Machine Learning for Health (UC3M)
+</p>
+<p style="font-size: 0.9em;">
+  Researcher at Instituto de Investigación Sanitaria Gregorio Marañón
+</p>
 
 ## About
 
