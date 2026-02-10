@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher, MSc"
   location         : "Madrid, Spain"
-  employer         : "Hospital General Universitario Gregorio Marañón"
+  employer         : # "Hospital General Universitario Gregorio Marañón"
   uri              : # URL
   email            : "mmunozpz03@gmail.com" 
 
