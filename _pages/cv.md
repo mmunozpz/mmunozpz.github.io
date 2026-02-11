@@ -77,25 +77,16 @@ redirect_from:
 
 ## Awards and Honors
 
-- <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025):</u><br>Best academic record in the degree program.
-
-- <u>SEIB–FENIN Awards Selection (2025)</u><br>Selected as best bachelor’s thesis to represent UC3M.
-
-- <u>Bachelor’s Thesis with Honors</u><br>Research project on automatic arrhythmia classification.
-
-- <u>Santander Scholarship (2024/2025)</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
-
-- <u>Collaboration Scholarship for University Departments</u><br>€2,000 awarded for research tasks (27 selected students at UC3M).
-
-- <u>SURF Fellowship – Purdue University</u><br>11-week funded research program.
-
-- <u>Purdue Research Symposium</u><br>Selected among 100 projects (out of 450+) for final presentation.
-
-- <u>Community of Madrid Excellence Scholarship</u><br>Awarded twice for outstanding academic performance.
-
-- <u>High School Honor Award – Community of Madrid</u><br>10/10 average; covered first-year university tuition.
-
-- <u>High School Excellence Award</u><br>Top 3 students out of 180 upon graduation.
+- <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025):</u><br>Best academic record in the degree program
+- <u>SEIB–FENIN Awards Selection (2025):</u><br>Selected as best bachelor’s thesis to represent UC3M.
+- <u>Bachelor’s Thesis with Honors:</u><br>Research project on automatic arrhythmia classification.
+- <u>Santander Scholarship (2024/2025):</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
+- <u>Collaboration Scholarship for University Departments:</u><br>€2,000 awarded for research tasks (27 selected students at UC3M).
+- <u>SURF Fellowship - Purdue University:</u><br>11-week funded research program.
+- <u>Purdue Research Symposium:</u><br>Selected among 100 projects (out of 450+) for final presentation.
+- <u>Community of Madrid Excellence Scholarship:</u><br>Awarded twice for outstanding academic performance.
+- <u>High School Honor Award - Community of Madrid:</u><br>10/10 average; covered first-year university tuition.
+- <u>High School Excellence Award:</u><br>Top 3 students out of 180 upon graduation.
 
 ## Volunteering
 
