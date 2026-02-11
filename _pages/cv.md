@@ -10,21 +10,21 @@ redirect_from:
 ## Education
 
 - **2025–2026**: MSc in Machine Learning for Health  
-  Universidad Carlos III de Madrid, Madrid, Spain
+  <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
   - GPA: 9.52 / 10
   - Honors in: Optimization, Statistical Signal Processing
   - In progress
 
 - **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
-  Universidad Carlos III de Madrid, Madrid, Spain
+  <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
   - GPA: 9.16 / 10
   - Best Academic Record in my degree
   - Honors in: Cell and Molecular Biology, Biological Systems, Measuring Instrumentation, Transport Phenomena, Bioethics
 
 - **2023–2024**: Exchange Student  
-  Georgia Institute of Technology, Atlanta, Georgia, USA
+  <small><em>Georgia Institute of Technology, Atlanta, Georgia, USA</em></small>
   - GPA: 10 / 10
-  - Coursework: Signal Processing, Analog Electronics, Bioinstrumentation
+  - Main coursework: Signal Processing, Analog Electronics, Bioinstrumentation
   - Researcher at Inan Research Lab (Signal Processing)
 
 ---
@@ -32,7 +32,7 @@ redirect_from:
 ## Experience
 
 - **Sep 2024–Present**: Researcher, Cardiology Department  
-  Hospital General Universitario Gregorio Marañón, Madrid, Spain
+  <small><em>Hospital General Universitario Gregorio Marañón, Madrid, Spain</em></small>
   - Technical support in clinical ablation studies for AF and other arrhythmias
   - Involved in three different clinical trials.
   - Intracardiac electrogram acquisition and signal processing with feature extraction
@@ -40,13 +40,13 @@ redirect_from:
   - Clinical study management, follow-up, data handling, and CRO coordination
 
 - **May 2024–Jul 2024**: Researcher  
-  Jiang Lab, Purdue University, West Lafayette, Indiana, USA
+  <small><em>Jiang Lab, Purdue University, West Lafayette, Indiana, USA</em></small>
   - Structural biology lab focused on cryo-EM
   - Developed a VAE neural network to classify helical structures from EM databank
   - Implemented correlation-based validation method using in-house cylindrical projection tool. <br>[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485488/) to peer-review journal publication.
 
 - **Sep 2023–May 2024**: Researcher  
-  Inan Research Lab, Georgia Institute of Technology, Atlanta, Georgia, USA
+  <small><em>Inan Research Lab, Georgia Institute of Technology, Atlanta, Georgia, USA</em></small>
   - Bioinstrumentation lab focused on wearable biomedical devices
   - Cardiopulmonary signal analysis for egophony diagnosis
   - MATLAB algorithm development (spectrograms, PSD, transfer functions)
@@ -56,14 +56,12 @@ redirect_from:
 
 ## Projects
 
-- **2024–2025**: Bachelor’s Thesis — Neural Network Arrhythmia Classifier  
-  Madrid, Spain (in collaboration with Gregorio Marañón Hospital)
+- **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
   - Developed a neural network to classify arrhythmias from electrophysiology data
   - Implemented a vector-quantized variational autoencoder (VQ-VAE) for ECG feature extraction
   - Presented at [SEC](https://web.congresosec.org/) and [CASEIB](https://caseib.es/2025/) Congresses, representing UC3M in SEIB-FENIN awards in the last.
 
-- **2018–2021**: OKLOCK — Startup (Rocket Ventures Program)  
-  Madrid, Spain
+- **2018–2021**: OKLOCK - Startup (Rocket Ventures Program)
   - Co-founded at age 16 without initial investment
   - Experience in e-commerce, data analysis, business strategy
   - Represented program on Onda Cero Radio and at Startup Olé Salamanca
@@ -72,16 +70,35 @@ redirect_from:
 
 ## Awards and Honors
 
-- Extraordinary Bachelor’s Degree Awards UC3M (2024/2025) — best academic record in the degree program.
-- SEIB-FENIN Awards Selection (2025) — selected as best bachelor thesis to represent UC3M.
-- Bachelor’s Thesis awarded with Honors — research project on automatic arrhythmia classification
-- Santander Scholarship (2024/2025) — 1000€ awarded for academic excellence (top 7 students at EPS-UC3M).
-- Collaboration Scholarship for University Departments — 2000€ awarded for research tasks (27 selected students at UC3M)
-- SURF Fellowship — 11-week funded research program at Purdue University.
-- Purdue Research Symposium — selected among 100 projects (out of 450+) for final presentation
-- Community of Madrid Excellence Scholarship — awarded twice for outstanding academic performance.
-- High School Honor Award (Community of Madrid) — 10/10 average, covering first-year university tuition.
-- High School Excellence Award — top 3 students out of 180 upon high school graduation
+- <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025)</u>  
+  <small>Best academic record in the degree program.</small>
+
+- <u>SEIB–FENIN Awards Selection (2025)</u>  
+  <small>Selected as best bachelor’s thesis to represent UC3M.</small>
+
+- <u>Bachelor’s Thesis with Honors</u>  
+  <small>Research project on automatic arrhythmia classification.</small>
+
+- <u>Santander Scholarship (2024/2025)</u>  
+  <small>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).</small>
+
+- <u>Collaboration Scholarship for University Departments</u>  
+  <small>€2,000 awarded for research tasks (27 selected students at UC3M).</small>
+
+- <u>SURF Fellowship – Purdue University</u>  
+  <small>11-week funded research program.</small>
+
+- <u>Purdue Research Symposium</u>  
+  <small>Selected among 100 projects (out of 450+) for final presentation.</small>
+
+- <u>Community of Madrid Excellence Scholarship</u>  
+  <small>Awarded twice for outstanding academic performance.</small>
+
+- <u>High School Honor Award – Community of Madrid</u>  
+  <small>10/10 average; covered first-year university tuition.</small>
+
+- <u>High School Excellence Award</u>  
+  <small>Top 3 students out of 180 upon graduation.</small>
 
 ---
 
