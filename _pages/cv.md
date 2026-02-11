@@ -15,11 +15,15 @@ redirect_from:
   - Honors in: Optimization, Statistical Signal Processing
   - In progress
 
+<br>
+
 - **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
   <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
   - GPA: 9.16 / 10
-  - Best Academic Record in my degree
+  - Best academic record in the degree
   - Honors in: Cell and Molecular Biology, Biological Systems, Measuring Instrumentation, Transport Phenomena, Bioethics
+
+<br>
 
 - **2023–2024**: Exchange Student  
   <small><em>Georgia Institute of Technology, Atlanta, Georgia, USA</em></small>
@@ -32,22 +36,26 @@ redirect_from:
 - **Sep 2024–Present**: Researcher, Cardiology Department  
   <small><em>Hospital General Universitario Gregorio Marañón, Madrid, Spain</em></small>
   - Technical support in clinical ablation studies for AF and other arrhythmias
-  - Contributed to three concurrent clinical trials focused on catheter ablation and arrhythmia management.
+  - Contributed to three concurrent clinical trials focused on catheter ablation and arrhythmia management
   - Intracardiac electrogram acquisition and signal processing with feature extraction
-  - Conducting parallel research on ECG-based arrhythmia detection, currently in preparation for peer-journal publication.
+  - Conducting parallel research on ECG-based arrhythmia detection, currently in preparation for peer-journal publication
   - Clinical study management, follow-up, data handling, and CRO coordination
-  - Supervision and academic mentoring of 3 internship students, 1 undergraduate thesis (TFG), and 2 master’s theses (TFM).
+  - Supervision and academic mentoring of 3 internship students, 1 undergraduate thesis (TFG), and 2 master’s theses (TFM)
+
+<br>
 
 - **May 2024–Jul 2024**: Researcher  
   <small><em>Jiang Lab, Purdue University, West Lafayette, Indiana, USA</em></small>
   - Structural biology lab focused on cryo-EM
   - Developed a VAE neural network to classify helical structures from EM databank
-  - Implemented correlation-based validation method using in-house cylindrical projection tool. <br>[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485488/) to peer-review journal publication.
+  - Implemented correlation-based validation method using in-house cylindrical projection tool. <br>[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485488/) to peer-review journal publication
+
+<br>
 
 - **Sep 2023–May 2024**: Researcher  
   <small><em>Inan Research Lab, Georgia Institute of Technology, Atlanta, Georgia, USA</em></small>
   - Bioinstrumentation lab focused on wearable biomedical devices
-  - Performed cardiopulmonary signal analysis for non-invasive egophony detection.
+  - Performed cardiopulmonary signal analysis for non-invasive egophony detection
   - MATLAB algorithm development (spectrograms, PSD, transfer functions)
   - Identified diagnostic frequency attenuation pattern in chest-transmitted signals
 
@@ -57,8 +65,10 @@ redirect_from:
   - Developed a neural network to classify arrhythmias from electrophysiology data
   - Implemented a vector-quantized variational autoencoder (VQ-VAE) for ECG feature extraction
   - Presented at [SEC](https://web.congresosec.org/) and [CASEIB](https://caseib.es/2025/) Congresses
-  - Selected to represent UC3M in the SEIB–FENIN Awards.
-  - Abstract accepted for presentation at the [2026 Heart Rhythm Society (HRS) Congress](https://www.hrsonline.org/event/heart-rhythm-2026/).
+  - Selected to represent UC3M in the SEIB–FENIN Awards
+  - Abstract accepted for presentation at the [2026 Heart Rhythm Society (HRS) Congress](https://www.hrsonline.org/event/heart-rhythm-2026/)
+
+<br>
 
 - **2018–2021**: OKLOCK - Startup (Rocket Ventures Program)
   - Co-founded at age 16 without initial investment
@@ -110,7 +120,7 @@ redirect_from:
 
 ## Additional Information
 
-- **CEEIBIS (2021–2025)** — National Biomedical Engineering Association (Spain)
+- **CEEIBIS (2021–2025):** National Biomedical Engineering Association (Spain)
   - Organized industry-academia networking events
   - Responsible for enterprise relations and sponsorship acquisition
 
@@ -118,4 +128,4 @@ redirect_from:
   - Educational program for highly gifted students in Madrid
   - Built on teamwork and communication development
 
-- **Interests:** Soccer, guitar, piano, finance, nature.
+- **Interests:** Soccer, guitar, piano, finance, and nature.
