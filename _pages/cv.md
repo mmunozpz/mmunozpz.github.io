@@ -18,7 +18,7 @@ redirect_from:
 - **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
    <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
   - GPA: 9.16 / 10
-  - Best academic record in the degree
+  - Best academic record in the degree and best bachelor's thesis
   - Honors in: Cell and Molecular Biology, Biological Systems, Measuring Instrumentation, Transport Phenomena, Bioethics
     <br>
 
