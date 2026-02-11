@@ -7,14 +7,13 @@ redirect_from:
   - /resume
 ---
 
-# CV
-
 ## Education
 
 - **2025–2026**: MSc in Machine Learning for Health  
   Universidad Carlos III de Madrid, Madrid, Spain
   - GPA: 9.52 / 10
   - Honors in: Optimization, Statistical Signal Processing
+  - In progress
 
 - **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
   Universidad Carlos III de Madrid, Madrid, Spain
@@ -34,16 +33,17 @@ redirect_from:
 
 - **Sep 2024–Present**: Researcher, Cardiology Department  
   Hospital General Universitario Gregorio Marañón, Madrid, Spain
-  - Technical support in clinical ablation studies for atrial fibrillation and other arrhythmias. Involved in several clinical trials.
+  - Technical support in clinical ablation studies for AF and other arrhythmias
+  - Involved in three different clinical trials.
   - Intracardiac electrogram acquisition and signal processing with feature extraction
-  - ECG-based arrhythmia detection research. Getting refined for publication.
+  - ECG-based arrhythmia detection parallel research. Getting refined for publication.
   - Clinical study management, follow-up, data handling, and CRO coordination
 
 - **May 2024–Jul 2024**: Researcher  
   Jiang Lab, Purdue University, West Lafayette, Indiana, USA
   - Structural biology lab focused on cryo-EM
   - Developed a VAE neural network to classify helical structures from EM databank
-  - Implemented correlation-based validation method using in-house cylindrical projection tool. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485488/) to peer-review journal publication.
+  - Implemented correlation-based validation method using in-house cylindrical projection tool. <br>[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12485488/) to peer-review journal publication.
 
 - **Sep 2023–May 2024**: Researcher  
   Inan Research Lab, Georgia Institute of Technology, Atlanta, Georgia, USA
