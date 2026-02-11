@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning-Based Segmentation of 3D Left Atrial Meshes from Electroanatomical Mapping: Left Atrium Mesh Segmentation"
 collection: publications
-category: "Conferences"
+category: "Conference Proceedings"
 permalink: /publication/2025-09-segmentation
 excerpt: ""
 date: 2025-09

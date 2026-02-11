@@ -1,7 +1,7 @@
 ---
 title: "Advanced Cardiac Al Models for Automatic Arrhythmia Classification on Electrocardiograms"
 collection: publications
-category: "Conferences"
+category: "Conference Proceedings"
 permalink: /publication/2025-11-19-cardiacai
 excerpt: ""
 date: 2025-11-19
