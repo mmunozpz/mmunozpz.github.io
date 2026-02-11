@@ -71,6 +71,7 @@ redirect_from:
 
 ## Awards and Honors
 
+- <u>Santander Scholarship (2025/2026):</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
 - <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025):</u><br>Best academic record in the degree program
 - <u>SEIB–FENIN Awards Selection (2025):</u><br>Selected as best bachelor’s thesis to represent UC3M.
 - <u>Bachelor’s Thesis with Honors:</u><br>Research project on automatic arrhythmia classification.
