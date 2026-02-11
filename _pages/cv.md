@@ -27,8 +27,6 @@ redirect_from:
   - Main coursework: Signal Processing, Analog Electronics, Bioinstrumentation
   - Researcher at Inan Research Lab (Signal Processing)
 
----
-
 ## Experience
 
 - **Sep 2024–Present**: Researcher, Cardiology Department  
@@ -52,8 +50,6 @@ redirect_from:
   - MATLAB algorithm development (spectrograms, PSD, transfer functions)
   - Identified diagnostic frequency attenuation pattern in chest-transmitted signals
 
----
-
 ## Projects
 
 - **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
@@ -66,80 +62,41 @@ redirect_from:
   - Experience in e-commerce, data analysis, business strategy
   - Represented program on Onda Cero Radio and at Startup Olé Salamanca
 
----
-
 ## Awards and Honors
 
-- <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025)</u>  
-  <small>Best academic record in the degree program.</small>
+- <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025):</u><br>Best academic record in the degree program.
 
-- <u>SEIB–FENIN Awards Selection (2025)</u>  
-  <small>Selected as best bachelor’s thesis to represent UC3M.</small>
+- <u>SEIB–FENIN Awards Selection (2025)</u><br>Selected as best bachelor’s thesis to represent UC3M.
 
-- <u>Bachelor’s Thesis with Honors</u>  
-  <small>Research project on automatic arrhythmia classification.</small>
+- <u>Bachelor’s Thesis with Honors</u><br>Research project on automatic arrhythmia classification.
 
-- <u>Santander Scholarship (2024/2025)</u>  
-  <small>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).</small>
+- <u>Santander Scholarship (2024/2025)</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
 
-- <u>Collaboration Scholarship for University Departments</u>  
-  <small>€2,000 awarded for research tasks (27 selected students at UC3M).</small>
+- <u>Collaboration Scholarship for University Departments</u><br>€2,000 awarded for research tasks (27 selected students at UC3M).
 
-- <u>SURF Fellowship – Purdue University</u>  
-  <small>11-week funded research program.</small>
+- <u>SURF Fellowship – Purdue University</u><br>11-week funded research program.
 
-- <u>Purdue Research Symposium</u>  
-  <small>Selected among 100 projects (out of 450+) for final presentation.</small>
+- <u>Purdue Research Symposium</u><br>Selected among 100 projects (out of 450+) for final presentation.
 
-- <u>Community of Madrid Excellence Scholarship</u>  
-  <small>Awarded twice for outstanding academic performance.</small>
+- <u>Community of Madrid Excellence Scholarship</u><br>Awarded twice for outstanding academic performance.
 
-- <u>High School Honor Award – Community of Madrid</u>  
-  <small>10/10 average; covered first-year university tuition.</small>
+- <u>High School Honor Award – Community of Madrid</u><br>10/10 average; covered first-year university tuition.
 
-- <u>High School Excellence Award</u>  
-  <small>Top 3 students out of 180 upon graduation.</small>
-
----
+- <u>High School Excellence Award</u><br>Top 3 students out of 180 upon graduation.
 
 ## Volunteering
 
-- GOALS Soccer — Coach for children with disabilities (Sep 2023–May 2024)
-- Rise Against Hunger — Meal-packing initiative (Aug 2023)
-- Community Kitchen — Food distribution in low-income neighborhoods (Sep 2019–Mar 2020)
-- Nursing Home Volunteer — Engagement activities with elderly residents (Sep 2018–May 2019)
-
----
+- <u>GOALS Soccer:</u> Coach for children with disabilities (Sep 2023–May 2024)
+- <u>Rise Against Hunger:</u> Meal-packing initiative (Aug 2023)
+- <u>Community Kitchen:</u> Food distribution in low-income neighborhoods (Sep 2019–Mar 2020)
+- <u>Nursing Home Volunteer:</u> Engagement activities with elderly residents (Sep 2018–May 2019)
 
 ## Skills
 
-**Languages**
-
-- Spanish (Native)
-- English (C1)
-- French (B1)
-
-**Programming & Software**
-
-- Python, MATLAB, PyTorch
-- ABAQUS, FEBio, LTSpice
-- Simpleware, PyMOL, Chimera
-- Excel, ImageJ
-
-**Technical Expertise**
-
-- Signal Processing
-- Bioinstrumentation
-- Structural Biology
-- Deep Learning
-
-**Professional Skills**
-
-- Public Speaking
-- Leadership
-- Critical Thinking
-
----
+- **Languages:** Spanish (Native), English (C1), French (B1)
+- **Programming and Software:** Python, PyTorch, MATLAB, ABAQUS, FEBio, LTSpice, Simpleware, PyMOL, Chimera, Excel, ImageJ, Node, Typescript, Javascript
+- **Domain-Specific Expertise:** Deep Learning, Machine Learning, Signal processing, Bioinstrumentation, Structural Biology.
+- **Soft Skills:** Public Speaking, Leadership, Critical Thinking
 
 ## Certifications
 
@@ -147,8 +104,6 @@ redirect_from:
 - Responsible Conduct of Research (CITI), Feb 2024
 - ICEBERG Intercultural Workshop (Georgia Tech), Oct 2023
 - Special Olympics Protective Behaviors Training, Sep 2023
-
----
 
 ## Additional Information
 
@@ -158,6 +113,6 @@ redirect_from:
 
 - **PEAC Program (2011–2019)**
   - Educational program for highly gifted students in Madrid
-  - Emphasis on teamwork and communication development
+  - Built on teamwork and communication development
 
-**Interests:** Soccer, guitar, piano, finance, nature.
+- **Interests:** Soccer, guitar, piano, finance, nature.
