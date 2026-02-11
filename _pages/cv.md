@@ -9,12 +9,15 @@ redirect_from:
 
 ## Education
 
+<div style="margin-bottom: 1.2em;">
+
 - **2025–2026**: MSc in Machine Learning for Health  
    <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
   - GPA: 9.52 / 10
   - Honors in: Optimization, Statistical Signal Processing
   - In progress
-    <br>
+
+</div>
 
 - **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
    <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
