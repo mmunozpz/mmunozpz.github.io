@@ -57,7 +57,7 @@ redirect_from:
 ## Projects
 
 - **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
-  - Developed a neural network to classify arrhythmias from electrophysiology data
+  - Developed a neural network to classify arrhythmias from electrocardiograms (ECGs)
   - Implemented a vector-quantized variational autoencoder (VQ-VAE) for ECG feature extraction
   - Presented at [SEC](https://web.congresosec.org/) and [CASEIB](https://caseib.es/2025/) Congresses
   - Selected to represent UC3M in the SEIB–FENIN Awards
