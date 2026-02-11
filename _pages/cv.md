@@ -110,7 +110,7 @@ redirect_from:
   - Responsible for enterprise relations and sponsorship acquisition
 
 - **PEAC Program (2011–2019)**
-  - Educational program for highly gifted students in Madrid
+  - Educational program for talented students in Madrid
   - Built on teamwork and communication development
 
 - **Interests:** Soccer, guitar, piano, finance, and nature.

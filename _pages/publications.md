@@ -18,7 +18,7 @@ You can also find my articles on [my Google Scholar profile]({{author.googlescho
 
 {% if publications_in_category.size > 0 %}
 
-<h2 class="category-toggle">{{ category | capitalize }} <span class="toggle-icon">+</span></h2>
+<h2 class="category-toggle">{{ category | capitalize }} <span class="toggle-icon">-</span></h2>
 <div id="publications-{{ category | slugify }}" class="publications-section">
       {% for post in publications_in_category reversed%}
         {% include archive-single.html %}
@@ -51,7 +51,7 @@ categoryToggles.forEach(function(toggle) {
 }
 
 .publications-section {
-  display: none;
+  display: block;
   margin-bottom: 20px;
 }
 
