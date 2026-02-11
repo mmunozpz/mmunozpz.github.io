@@ -32,10 +32,11 @@ redirect_from:
 - **Sep 2024–Present**: Researcher, Cardiology Department  
   <small><em>Hospital General Universitario Gregorio Marañón, Madrid, Spain</em></small>
   - Technical support in clinical ablation studies for AF and other arrhythmias
-  - Involved in three different clinical trials.
+  - Contributed to three concurrent clinical trials focused on catheter ablation and arrhythmia management.
   - Intracardiac electrogram acquisition and signal processing with feature extraction
-  - ECG-based arrhythmia detection parallel research. Getting refined for publication.
+  - Conducting parallel research on ECG-based arrhythmia detection, currently in preparation for peer-journal publication.
   - Clinical study management, follow-up, data handling, and CRO coordination
+  - Supervision and academic mentoring of 3 internship students, 1 undergraduate thesis (TFG), and 2 master’s theses (TFM).
 
 - **May 2024–Jul 2024**: Researcher  
   <small><em>Jiang Lab, Purdue University, West Lafayette, Indiana, USA</em></small>
@@ -46,7 +47,7 @@ redirect_from:
 - **Sep 2023–May 2024**: Researcher  
   <small><em>Inan Research Lab, Georgia Institute of Technology, Atlanta, Georgia, USA</em></small>
   - Bioinstrumentation lab focused on wearable biomedical devices
-  - Cardiopulmonary signal analysis for egophony diagnosis
+  - Performed cardiopulmonary signal analysis for non-invasive egophony detection.
   - MATLAB algorithm development (spectrograms, PSD, transfer functions)
   - Identified diagnostic frequency attenuation pattern in chest-transmitted signals
 
@@ -55,11 +56,13 @@ redirect_from:
 - **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
   - Developed a neural network to classify arrhythmias from electrophysiology data
   - Implemented a vector-quantized variational autoencoder (VQ-VAE) for ECG feature extraction
-  - Presented at [SEC](https://web.congresosec.org/) and [CASEIB](https://caseib.es/2025/) Congresses, representing UC3M in SEIB-FENIN awards in the last.
+  - Presented at [SEC](https://web.congresosec.org/) and [CASEIB](https://caseib.es/2025/) Congresses
+  - Selected to represent UC3M in the SEIB–FENIN Awards.
+  - Abstract accepted for presentation at the [2026 Heart Rhythm Society (HRS) Congress](https://www.hrsonline.org/event/heart-rhythm-2026/).
 
 - **2018–2021**: OKLOCK - Startup (Rocket Ventures Program)
   - Co-founded at age 16 without initial investment
-  - Experience in e-commerce, data analysis, business strategy
+  - Led e-commerce operations, data-driven decision-making, and growth strategy.
   - Represented program on Onda Cero Radio and at Startup Olé Salamanca
 
 ## Awards and Honors
@@ -95,7 +98,7 @@ redirect_from:
 
 - **Languages:** Spanish (Native), English (C1), French (B1)
 - **Programming and Software:** Python, PyTorch, MATLAB, ABAQUS, FEBio, LTSpice, Simpleware, PyMOL, Chimera, Excel, ImageJ, Node, Typescript, Javascript
-- **Domain-Specific Expertise:** Deep Learning, Machine Learning, Signal processing, Bioinstrumentation, Structural Biology.
+- **Domain-Specific Expertise:** Deep Learning, Machine Learning, Signal Processing, Bioinstrumentation, Structural Biology.
 - **Soft Skills:** Public Speaking, Leadership, Critical Thinking
 
 ## Certifications
@@ -107,7 +110,7 @@ redirect_from:
 
 ## Additional Information
 
-- **CEEIBIS** — National Biomedical Engineering Association (Spain)
+- **CEEIBIS (2021–2025)** — National Biomedical Engineering Association (Spain)
   - Organized industry-academia networking events
   - Responsible for enterprise relations and sponsorship acquisition
 
