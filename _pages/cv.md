@@ -58,7 +58,7 @@ redirect_from:
 
 - **2024–2025**: MEMEMTO - Mobile app for Alzheimer’s patients and their families
   - App to improve quality of life of elderly people with memory problems
-  - Built and launched on [iOS](https://apps.apple.com/es/app/mememto/id6743077813) and [Android](https://play.google.com/store/apps/details?id=com.mememto.mememto)
+  - Built and launched on iOS and Android
   - Tested with real users from 50+ families and partnered with 10+ Alzheimer’s associations and hospitals
   - Discontinued due to low long-term engagement as disease progressed.
     <br>
