@@ -7,27 +7,6 @@ redirect_from:
   - /resume
 ---
 
-## Education
-
-- **2025–2026**: MSc in Machine Learning for Health  
-   <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
-  - GPA: 9.52 / 10
-  - Honors in: Optimization, Statistical Signal Processing
-  - In progress
-
-- **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
-   <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
-  - GPA: 9.16 / 10
-  - Best academic record in the degree and best bachelor's thesis
-  - Honors in: Cell and Molecular Biology, Biological Systems, Measuring Instrumentation, Transport Phenomena, Bioethics
-    <br>
-
-- **2023–2024**: Exchange Student  
-  <small><em>Georgia Institute of Technology, Atlanta, Georgia, USA</em></small>
-  - GPA: 10 / 10
-  - Main coursework: Signal Processing, Analog Electronics, Bioinstrumentation
-  - Researcher at Inan Research Lab (Signal Processing)
-
 ## Experience
 
 - **Sep 2024–Present**: Researcher, Cardiology Department  
@@ -54,7 +33,36 @@ redirect_from:
   - MATLAB algorithm development (spectrograms, PSD, transfer functions)
   - Identified diagnostic frequency attenuation pattern in chest-transmitted signals
 
+## Education
+
+- **2025–2026**: MSc in Machine Learning for Health  
+   <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
+  - GPA: 9.52 / 10
+  - Honors in: Optimization, Statistical Signal Processing
+  - In progress
+
+- **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
+   <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
+  - GPA: 9.16 / 10
+  - Best academic record in the degree and best bachelor's thesis
+  - Honors in: Cell and Molecular Biology, Biological Systems, Measuring Instrumentation, Transport Phenomena, Bioethics
+    <br>
+
+- **2023–2024**: Exchange Student  
+  <small><em>Georgia Institute of Technology, Atlanta, Georgia, USA</em></small>
+  - GPA: 10 / 10
+  - Main coursework: Signal Processing, Analog Electronics, Bioinstrumentation
+  - Researcher at Inan Research Lab (Signal Processing)
+
 ## Projects
+
+- **2024–2025**: MEMEMTO - Mobile app for Alzheimer’s patients and their families
+  - App to improve quality of life of elderly people with memory problems
+  - Built and launched on [iOS](https://apps.apple.com/es/app/mememto/id6743077813) and [Android](https://play.google.com/store/apps/details?id=com.mememto.mememto)
+  - Tested with real users from 50+ families and partnered with 10+ Alzheimer’s associations and hospitals
+  - Discontinued due to low long-term engagement as disease progressed.ç
+
+    <br>
 
 - **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
   - Developed a neural network to classify arrhythmias from electrocardiograms (ECGs)
