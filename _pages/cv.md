@@ -60,10 +60,8 @@ redirect_from:
   - App to improve quality of life of elderly people with memory problems
   - Built and launched on [iOS](https://apps.apple.com/es/app/mememto/id6743077813) and [Android](https://play.google.com/store/apps/details?id=com.mememto.mememto)
   - Tested with real users from 50+ families and partnered with 10+ Alzheimer’s associations and hospitals
-  - Discontinued due to low long-term engagement as disease progressed.ç
-
+  - Discontinued due to low long-term engagement as disease progressed.
     <br>
-
 - **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
   - Developed a neural network to classify arrhythmias from electrocardiograms (ECGs)
   - Implemented a vector-quantized variational autoencoder (VQ-VAE) for ECG feature extraction
