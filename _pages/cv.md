@@ -9,7 +9,7 @@ redirect_from:
 
 ## Experience
 
-- **Sep 2024–Present**: Researcher, Cardiology Department  
+- **Sep 2024–Present**: AI Researcher, Cardiology Department  
    <small><em>Hospital General Universitario Gregorio Marañón, Madrid, Spain</em></small>
   - Technical support in clinical ablation studies for AF and other arrhythmias
   - Contributed to three concurrent clinical trials focused on catheter ablation and arrhythmia management
@@ -19,7 +19,7 @@ redirect_from:
   - Supervision and academic mentoring of 3 internship students, 1 undergraduate thesis (TFG), and 2 master’s theses (TFM)
     <br>
 
-- **May 2024–Jul 2024**: Researcher  
+- **May 2024–Jul 2024**: AI Researcher  
    <small><em>Jiang Lab, Purdue University, West Lafayette, Indiana, USA</em></small>
   - Structural biology lab focused on cryo-EM
   - Developed a VAE neural network to classify helical structures from EM databank
