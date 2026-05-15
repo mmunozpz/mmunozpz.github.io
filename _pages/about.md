@@ -14,9 +14,7 @@ redirect_from:
 
 ## About
 
-I build AI models for health.
-
-I'm interested in applying ML to noisy biomedical data (whether that's biosignals, genomics, or molecular sensors) to detect clinically meaningful signal in heavy noise.
+I build AI models for health. I'm interested in applying ML to noisy biomedical data (whether that's biosignals, genomics, or molecular sensors) to detect clinically meaningful signal in heavy noise.
 
 I currently work as a researcher in the Cardiology Department at Hospital General Universitario Gregorio Marañón (HGUGM), where my main research focus is ECG-based arrhythmia detection. I also provide technical support with intracardiac electrograms in catheter ablation studies, currently involved in three different clinical trials.
 
