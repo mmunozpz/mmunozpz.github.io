@@ -6,8 +6,8 @@ permalink: /publication/2025-10-24-vqvae
 excerpt: ""
 date: 2026-04-01
 venue: "Heart Rhythm"
-paperurl: "scholar.google.es/scholar?oi=bibs&cluster=15652964945360571603&btnI=1&hl=es"
+paperurl: "https://www.heartrhythmjournal.com/article/S1547-5271(26)01660-7/fulltext"
 citation: "Gómez Sánchez, R., Ávila Alonso, P., Albarrán Gómez, M., González Ruiz, L. Muñoz Pérez, M.,  Domingo-Gardeta, T., Rios-Muñoz, G., Carta Bergaz, A., González Torrecilla, E., Atienza Fernández, F.,  Bermejo Thomas, J., & Arenal Maíz, Á. (2026). Arrhythmia Termination: A New Procedural Endpoint for Persistent Atrial Fibrillation Ablation in the Pulsed-Field Ablation Era?. Heart Rhythm"
 ---
 
-- [Conference paper](scholar.google.es/scholar?oi=bibs&cluster=15652964945360571603&btnI=1&hl=es)
+- [Conference paper](<https://www.heartrhythmjournal.com/article/S1547-5271(26)01660-7/fulltext>)
