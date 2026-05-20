@@ -2,7 +2,7 @@
 title: "Arrhythmia Termination: A New Procedural Endpoint for Persistent Atrial Fibrillation Ablation in the Pulsed-Field Ablation Era?"
 collection: publications
 category: "Conference Proceedings"
-permalink: /publication/2025-10-24-vqvae
+permalink: /publication/2026-04-01-termination
 excerpt: ""
 date: 2026-04-01
 venue: "Heart Rhythm"
