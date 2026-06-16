@@ -6,8 +6,8 @@ permalink: /publication/2025-10-01-electrogramas
 excerpt: ""
 date: 2025-10-01
 venue: "Sociedad Española de Cardiología (SEC 2025) - El Congreso de la Salud Cardiovascular"
-paperurl: "https://www.heartrhythmjournal.com/article/S1547-5271(26)01660-7/fulltext"
-citation: "Gómez Sánchez, R., Ávila Alonso, P., Albarrán Gómez, M., González Ruiz, L. Muñoz Pérez, M.,  Domingo-Gardeta, T., Rios-Muñoz, G., Carta Bergaz, A., González Torrecilla, E., Atienza Fernández, F.,  Bermejo Thomas, J., & Arenal Maíz, Á. (2026). Arrhythmia Termination: A New Procedural Endpoint for Persistent Atrial Fibrillation Ablation in the Pulsed-Field Ablation Era?. Heart Rhythm"
+paperurl: "https://www.revespcardiol.org/es-congresos-sec-2025-el-congreso-de-la-salud-cardiov-178-sesion-6083-electrocardiografia-monitorizacion--8888-comunicacion-clasificacion-automatica-de-ritmos-cardi-108368"
+citation: "Lin, L., Sevilla Salcedo, C., Peiro Corbacho, P., Mancebo-Laguna, I., Muñoz Pérez, M. M., Gómez Sánchez, R., ... & Ríos-Muñoz, G. R. (2025). 6083-614. Clasificación Automática de Ritmos Cardiacos Mediante Inteligencia Artificial: Representación Latente de Electrogramas Intracavitarios con Autoencoders. Revista Española de Cardiología, 78, 108368."
 ---
 
-- [Conference paper](<https://www.heartrhythmjournal.com/article/S1547-5271(26)01660-7/fulltext>)
+- [Conference paper](https://www.revespcardiol.org/es-congresos-sec-2025-el-congreso-de-la-salud-cardiov-178-sesion-6083-electrocardiografia-monitorizacion--8888-comunicacion-clasificacion-automatica-de-ritmos-cardi-108368)
