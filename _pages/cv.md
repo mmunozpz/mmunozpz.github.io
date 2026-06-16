@@ -12,11 +12,10 @@ redirect_from:
 - **Sep 2024–Present**: AI Researcher, Cardiology Department  
    <small><em>Hospital General Universitario Gregorio Marañón, Madrid, Spain</em></small>
   - Technical support in clinical ablation studies for AF and other arrhythmias
-  - Contributed to three concurrent clinical trials focused on catheter ablation and arrhythmia management
-  - Intracardiac electrogram acquisition and signal processing with feature extraction
-  - Conducting parallel research on ECG-based arrhythmia detection, currently in preparation for peer-journal publication
+  - Real-time guidance to electrophysiologists with a ML algorithm that process intracardiac electrograms from catheters, identifying arrhythmia drivers to personalize catheter ablation. Contributed to three concurrent clinical trials
   - Clinical study management, follow-up, data handling, and CRO coordination
   - Supervision and academic mentoring of 3 internship students, 1 undergraduate thesis (TFG), and 2 master’s theses (TFM)
+  - Conducting parallel research on ECG-based arrhythmia detection, currently in preparation for peer-journal publication
     <br>
 
 - **May 2024–Jul 2024**: AI Researcher  
@@ -38,7 +37,7 @@ redirect_from:
 - **2025–2026**: MSc in Machine Learning for Health  
    <small><em>Universidad Carlos III de Madrid, Madrid, Spain</em></small>
   - GPA: 9.52 / 10
-  - Honors in: Optimization, Statistical Signal Processing
+  - Honors in: Optimization, Statistical Signal Processing, AI in Radiology and Microscopy, Biosignals and Bioimages
   - In progress
 
 - **2021–2025**: Bachelor’s Degree in Biomedical Engineering  
@@ -60,14 +59,15 @@ redirect_from:
   - App to improve quality of life of elderly people with memory problems
   - Built and launched on iOS and Android
   - Tested with real users from 50+ families and partnered with 10+ Alzheimer’s associations and hospitals
-  - Discontinued due to low long-term engagement as disease progressed.
+  - Won €4000 at "Premios Pro Impulsa Emprendimiento UC3M"
+  - Discontinued due to low long-term engagement as disease progressed
     <br>
 - **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
   - Developed a neural network to classify arrhythmias from electrocardiograms (ECGs)
   - Implemented a vector-quantized variational autoencoder (VQ-VAE) for ECG feature extraction
-  - Presented at [SEC](https://web.congresosec.org/) and [CASEIB](https://caseib.es/2025/) Congresses
+  - Presented at [SEC](https://web.congresosec.org/), [CASEIB](https://caseib.es/2025/) and [HRS](https://www.hrsonline.org/event/heart-rhythm-2026/) Congresses
   - Selected to represent UC3M in the SEIB–FENIN Awards
-  - Abstract accepted for presentation at the [2026 Heart Rhythm Society (HRS) Congress](https://www.hrsonline.org/event/heart-rhythm-2026/)
+  - Awaiting external validation from another hospital for journal publication
     <br>
 
 - **2018–2021**: OKLOCK - Startup (Rocket Ventures Program)
@@ -77,16 +77,16 @@ redirect_from:
 
 ## Awards and Honors
 
+- <u>SURF Fellowship - Purdue University:</u><br>11-week funded research program.
+- <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025):</u><br>Best academic record in the degree program.
+- <u>SEIB–FENIN Awards Selection (2025):</u><br>Selected as best bachelor’s thesis to represent UC3M at a national competition.
 - <u>Santander Scholarship (2025/2026):</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
-- <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025):</u><br>Best academic record in the degree program
-- <u>SEIB–FENIN Awards Selection (2025):</u><br>Selected as best bachelor’s thesis to represent UC3M.
 - <u>Bachelor’s Thesis with Honors:</u><br>Research project on automatic arrhythmia classification.
 - <u>Santander Scholarship (2024/2025):</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
-- <u>Collaboration Scholarship for University Departments:</u><br>€2,000 awarded for research tasks (27 selected students at UC3M).
-- <u>SURF Fellowship - Purdue University:</u><br>11-week funded research program.
-- <u>Purdue Research Symposium:</u><br>Selected among 100 projects (out of 450+) for final presentation.
+- <u>Collaboration Scholarship for University Departments:</u><br>€2,000 awarded for research tasks (top 27 students at UC3M).
+- <u>Purdue Research Symposium:</u><br>Selected among 100 projects (out of 450+).
 - <u>Community of Madrid Excellence Scholarship:</u><br>Awarded twice for outstanding academic performance.
-- <u>High School Honor Award - Community of Madrid:</u><br>10/10 average; covered first-year university tuition.
+- <u>High School Honor Award - Community of Madrid:</u><br>10/10 average, covered first-year university tuition.
 - <u>High School Excellence Award:</u><br>Top 3 students out of 180 upon graduation.
 
 ## Volunteering
