@@ -12,7 +12,7 @@ redirect_from:
 - **Sep 2024–Present**: AI Researcher, Cardiology Department  
    <small><em>Hospital General Universitario Gregorio Marañón, Madrid, Spain</em></small>
   - Technical support in clinical ablation studies for AF and other arrhythmias
-  - Real-time guidance to electrophysiologists with a ML algorithm that process intracardiac electrograms from catheters, identifying arrhythmia drivers to personalize catheter ablation. Contributed to three concurrent clinical trials
+  - Real-time guidance to electrophysiologists with a ML algorithm that processes intracardiac electrograms from catheters, identifying arrhythmia drivers to personalize catheter ablation. Contributed to three concurrent clinical trials
   - Clinical study management, follow-up, data handling, and CRO coordination
   - Supervision and academic mentoring of 3 internship students, 1 undergraduate thesis (TFG), and 2 master’s theses (TFM)
   - Conducting parallel research on ECG-based arrhythmia detection, currently in preparation for peer-journal publication
@@ -59,7 +59,7 @@ redirect_from:
   - App to improve quality of life of elderly people with memory problems
   - Built and launched on iOS and Android
   - Tested with real users from 50+ families and partnered with 10+ Alzheimer’s associations and hospitals
-  - Won €4000 at "Premios Pro Impulsa Emprendimiento UC3M"
+  - Awarded €4000 at "Premios Pro Impulsa Emprendimiento UC3M"
   - Discontinued due to low long-term engagement as disease progressed
     <br>
 - **2024–2025**: Bachelor’s Thesis - Neural Network Arrhythmia Classifier
@@ -80,6 +80,7 @@ redirect_from:
 - <u>SURF Fellowship - Purdue University:</u><br>11-week funded research program.
 - <u>Extraordinary Bachelor’s Degree Award – UC3M (2024/2025):</u><br>Best academic record in the degree program.
 - <u>SEIB–FENIN Awards Selection (2025):</u><br>Selected as best bachelor’s thesis to represent UC3M at a national competition.
+- <u>"Pro Impulsa" Entrepreneurship Award:</u><br>€4,000 awarded for MEMEMTO (app to help Alzheimer's patients).
 - <u>Santander Scholarship (2025/2026):</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
 - <u>Bachelor’s Thesis with Honors:</u><br>Research project on automatic arrhythmia classification.
 - <u>Santander Scholarship (2024/2025):</u><br>€1,000 awarded for academic excellence (top 7 students at EPS-UC3M).
